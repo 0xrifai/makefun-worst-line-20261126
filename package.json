@@ -1,0 +1,1 @@
+{"description":"The worst line an AI could say: a breakup drafted before the first date.","engines":{"node":">=22.18"},"keywords":["make.fun","pickup-line"],"license":"MIT","name":"makefun-worst-line-20261126","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
